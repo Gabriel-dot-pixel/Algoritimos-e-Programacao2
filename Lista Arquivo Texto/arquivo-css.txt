@@ -1,0 +1,44 @@
+.emailIcon {
+  fill: currentColor;
+}
+button {
+  color: #016898;
+}
+button:hover {
+  color: #19B5FE;
+}
+.normal {
+    font-style: normal;
+}
+.italic {
+    font-style: italic;
+}
+.oblique {
+    font-style: oblique;
+}
+.text1 {
+    font-size: 16px;
+}
+#id:first-line {
+  background-color: red;
+  background-style: none;
+}
+#idUm {
+  background: blue;
+}
+#idDois {
+  background: yellow;
+}
+#idTres {
+  background: lightblue;
+}
+#idQuatro {
+  background: lightgreen;
+}
+div {
+  margin-top: 10px;
+}
+figure {
+  float: left;
+  margin: 0 10px 10px 0;
+}
